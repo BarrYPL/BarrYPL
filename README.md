@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BarrYPL
-- 🌱 I’m currently learning Ruby, C and ReactJS.
+- 🌱 I’m currently learning Ruby and C.
 - 📫 How to reach me https://m.me/bartek.osuch.9
 
 <!---
